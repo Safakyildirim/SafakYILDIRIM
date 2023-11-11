@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Şafak YILDIRIM
 #### I am an Electrical - Electronics Engineer
-![I am an Electrical - Electronics Engineer](https://rare-gallery.com/uploads/posts/4520700-syego-minigirl-circuitry-chips-school-uniform-computer-black-pantyhose-skirt-white-background.png)
-
 I worked in the fields of Embedded Systems, Hardware Design, Signal Engineering.
 
 Skills: PIC C / STM / Altium/ OrCAD 

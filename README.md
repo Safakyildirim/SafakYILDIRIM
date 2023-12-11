@@ -2,7 +2,7 @@
 #### I am an Electrical - Electronics Engineer
 I worked in the fields of Embedded Systems, Hardware Design, Signal Engineering.
 
-Skills: PIC C / STM / Altium/ OrCAD 
+Skills: PIC C / STM / Altium / OrCAD / LTspice
 
 - 📫 How to reach me: y.safakyildirim@gmail.com 
 

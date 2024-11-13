@@ -2,7 +2,7 @@
 #### I am an Electrical - Electronics Engineer
 I worked in the fields of Embedded Systems, Hardware Design, Signal Engineering.
 
-Skills: Altium Designer / PSpice / CCS C / STM32CubeIDE 
+Skills: Altium Designer / LTspice / CCS C / STM32CubeIDE 
 
 - 📫 How to reach me: y.safakyildirim@gmail.com 
 
